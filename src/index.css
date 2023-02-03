@@ -1,0 +1,65 @@
+.containerNavbar {
+  background-color: red;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.1rem;
+  height: 3rem;
+  align-items: center;
+}
+
+.iconCake {
+  height: 2rem;
+  width: 10rem;
+  display: flex;
+}
+
+.containerNavbar h5 {
+  padding-right: 1rem;
+}
+
+.listNavbar {
+  padding: 1rem;
+}
+
+.containerHome {
+  text-align: center;
+  height: 90vh;
+  padding-top: 3rem;
+
+}
+
+.imgTorta{
+  padding-top: 4rem;
+}
+
+.textFooter {
+  background-color: red;
+  padding-top: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+
+.containerContact {
+  text-align: center;
+  height: 90vh;
+  padding-top: 3rem;
+}
+
+input {
+  width: 70%;
+}
+
+.commentary{
+ height: 8rem; 
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+}
+
+form div {
+  padding: 1rem;
+}
